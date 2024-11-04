@@ -1,4 +1,4 @@
-app = 'python-agent-example'
+app = 'voicecore-agent-fly'
 primary_region = 'iad'
 
 # As of now, the maximum kill_timeout on fly.io is 5 minutes. After
